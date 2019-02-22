@@ -1,0 +1,25 @@
+@relation 'hypertension_test_deleted_3-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst,last'
+
+@attribute DI4_dg {0,1}
+@attribute EQ5D numeric
+@attribute sm_presnt {0.0,1.0,NA}
+@attribute HE_dprg {NA,6.0,3.0,5.0,7.0,8.0,4.0,2.0,9.0}
+@attribute HE_sbp2 numeric
+@attribute HE_sbp3 numeric
+@attribute HE_DM {NA,2.0,1.0,3.0}
+@attribute O_chew_d {0.0,1.0,NA}
+@attribute HE_HP {1,2,3}
+
+@data
+
+0,0.9234,1.0,NA,122,114,2.0,1.0,1
+0,0.9234,1.0,NA,122,114,2.0,1.0,1
+0,0.9234,1.0,NA,122,114,2.0,1.0,1
+0,0.9234,1.0,NA,122,144,2.0,1.0,1
+1,0.8913,1.0,NA,125,126,1.0,1.0,1
+0,0.9234,1.0,NA,122,144,2.0,1.0,1
+0,0.9234,1.0,NA,122,144,2.0,1.0,1
+0,0.9234,1.0,NA,122,144,2.0,1.0,1
+1,0.9910,1.0,NA,130,123,1.0,0.0,1
+0,0.9234,1.0,NA,122,144,2.0,1.0,1
+0,0.9910,0.0,NA,109,129,1.0,1.0,1

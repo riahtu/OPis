@@ -1,0 +1,18 @@
+@relation 'DATA_L_A_S_T(국민건강영양)-weka.filters.unsupervised.attribute.NumericToNominal-R1-249-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval-Sweka.attributeSelection.BestFirst -D 1 -N 5'
+
+@attribute DI1_dg {0,1}
+@attribute DJ4_3 {0,1,2,3}
+@attribute DE1_31 {0,1}
+@attribute DE1_32 {0,1}
+@attribute DE1_33 {0,1}
+@attribute DE1_4 {0,1,2}
+@attribute BO1_2 {0,1,2,3}
+@attribute HE_DMfh3 {0,1}
+@attribute HE_THfh2 {0,1}
+@attribute MO4_11 {0,1}
+@attribute HE_glu numeric
+@attribute BS6_2 numeric
+@attribute DE1_dg {0,1}
+
+@data
+0,0,0,0,0,0,0,0,1,0,13,12,1

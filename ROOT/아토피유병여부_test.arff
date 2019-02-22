@@ -1,0 +1,14 @@
+@relation 'DATA_L_A_S_T(국민건강영양)-weka.filters.unsupervised.attribute.NumericToNominal-R1-249-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval-Sweka.attributeSelection.BestFirst -D 1 -N 5'
+
+@attribute marri_1 {0,1,2}
+@attribute marri_2 {0,1,2,3,4}
+@attribute DJ4_3 {0,1,2,3}
+@attribute DJ8_dg {0,1}
+@attribute CH2_2 {0,1,2,3,4}
+@attribute BM1_0 {0,1}
+@attribute age numeric
+@attribute HE_wt numeric
+@attribute DL1_dg {0,1}
+
+@data
+0,0,0,0,2,1,20,50,1
